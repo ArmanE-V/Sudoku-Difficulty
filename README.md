@@ -14,14 +14,16 @@ For this study, Sudoku puzzles were collected from 5 popular Sudoku websites, al
   - Diabolical – Friday, Sunday  
 - **Number of Puzzles in Dataset:** 240  
 - **Collection Period:** April 15, 2024 – June 5, 2025  
-- **Archive Availability:** Publicly available for all released puzzles  
+- **Archive Availability:** Publicly available for all released puzzles
+- **Link:**  [https://sudoku.org.uk/](https://sudoku.org.uk/)
 
 ### Extreme Sudoku
 - **Difficulties:** Evil, Excessive, Egregious, Excruciating, Extreme  
 - **Release Schedule:** 5 puzzles daily, one of each difficulty  
 - **Number of Puzzles in Dataset:** 300  
 - **Collection Period:** December 5, 2024 – February 2, 2025  
-- **Archive Availability:** Publicly available for all released puzzles  
+- **Archive Availability:** Publicly available for all released puzzles
+- **Link:**  [https://www.extremesudoku.info/](https://www.extremesudoku.info/)
 
 ### Sudoku of the Day
 - **Difficulties:** Beginner, Easy, Medium, Tricky, Fiendish, Diabolical  
@@ -29,6 +31,7 @@ For this study, Sudoku puzzles were collected from 5 popular Sudoku websites, al
 - **Number of Puzzles in Dataset:** 360  
 - **Collection Period:** December 17, 2024 – February 20, 2025  
 - **Archive Availability:** Archive published for previous week of released puzzles
+- **Link:**  [https://www.sudokuoftheday.com/dailypuzzles](https://www.sudokuoftheday.com/dailypuzzles)
 
 In total, the dataset containing all five websites has 1320 puzzles, with 60 puzzles per difficulty level for each website.
 
