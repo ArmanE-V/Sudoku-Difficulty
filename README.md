@@ -46,7 +46,7 @@ Each puzzle is stored as a single line in the text files, in the following forma
 `<date>` : `<81-digit string>`
 
 `<date>`: The date the puzzle was collected, in `MM-DD-YY` format.  
-`<81-digit string>`: The Sudoku puzzle represented as a string of 81 digits. The string list the digits of the Sudoku puzzle row by row. Zeros (`0`) indicate empty cells. For example the following Sudoku puzzle (from Sudoku.org.uk) collected from on Januaru 6th, 2025:
+`<81-digit string>`: The Sudoku puzzle represented as a string of 81 digits. The string list the digits of the Sudoku puzzle row by row. Zeros (`0`) indicate empty cells. For example the following Sudoku puzzle (from Sudoku.org.uk) collected from on January 6th, 2025:
 <p align="center">
   <img width="364" height="350" alt="image" src="https://github.com/user-attachments/assets/a1b8013f-5030-4075-8ee4-836b91cd1f18" />
 </p>
