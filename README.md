@@ -1,4 +1,4 @@
-# Project-Patti
+# Sudoku-Difficulty
 This repository contains the Sudoku puzzle datasets used in the research paper "Project Patti: Why can You Solve Diabolical Puzzles on one Sudoku Website but not Easy Puzzles on another Sudoku Website?" (https://arxiv.org/abs/2507.21137)
 
 For this study, Sudoku puzzles were collected from 5 popular Sudoku websites, along with the difficulty level provided by the website. I currently have permission from puzzlemakers for 3 of the 5 websites to release the datasets publicily for academic use only. 
