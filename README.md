@@ -1,7 +1,7 @@
 # Sudoku-Difficulty
-This repository contains the Sudoku puzzle datasets used in the research paper "Project Patti: Why can You Solve Diabolical Puzzles on one Sudoku Website but not Easy Puzzles on another Sudoku Website?" (https://arxiv.org/abs/2507.21137)
+This repository contains the Sudoku puzzle datasets used in the research paper "Project Patti: Why can You Solve Diabolical Puzzles on one Sudoku Website but not Easy Puzzles on another Sudoku Website?" (https://arxiv.org/abs/2507.21137). Please refer to my paper for a complete description of the dataset and how it was used. 
 
-For this study, Sudoku puzzles were collected from 5 popular Sudoku websites, along with the difficulty level provided by the website. I currently have permission from puzzlemakers for 3 of the 5 websites to release the datasets publicily for academic use only. 
+For this study, Sudoku puzzles were collected from 5 popular Sudoku websites: New York Times, Sudoku.org.uk, Extreme Sudoku, Sudoku of the Day, and Sudoku of the Day UK, along with the difficulty level provided by the website. I currently have permission from Sudoku.org.uk, Extreme Sudoku, and Sudoku of the Day to release the datasets publicly for research and academic use only. 
 
 ## Sudoku Website Information
 
@@ -33,7 +33,7 @@ For this study, Sudoku puzzles were collected from 5 popular Sudoku websites, al
 - **Archive Availability:** Archive published for previous week of released puzzles
 - **Link:**  [https://www.sudokuoftheday.com/dailypuzzles](https://www.sudokuoftheday.com/dailypuzzles)
 
-In total, the dataset containing all five websites has 1320 puzzles, with 60 puzzles per difficulty level for each website.
+In total, the dataset containing all 5 websites has 1320 puzzles, with 60 puzzles per difficulty level from each website.
 
 ## File Structure
 
