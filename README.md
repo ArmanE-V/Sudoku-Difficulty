@@ -1,5 +1,7 @@
 # Sudoku-Difficulty
-This repository contains the Sudoku puzzle datasets used in the research paper "Project Patti: Why can You Solve Diabolical Puzzles on one Sudoku Website but not Easy Puzzles on another Sudoku Website?" (https://arxiv.org/abs/2507.21137). Please refer to my paper for a complete description of the dataset and how it was used. 
+This repository contains the Sudoku puzzle datasets used in the research paper "Project Patti: Why can You Solve Diabolical Puzzles on one Sudoku Website but not Easy Puzzles on another Sudoku Website?" (https://arxiv.org/abs/2507.21137). Please refer to my paper for a complete description of the dataset and how it was used:
+
+>Eisenkolb-Vaithyanathan, A. (2025). Project Patti: Why can You Solve Diabolical Puzzles on one Sudoku Website but not Easy Puzzles on >another Sudoku Website?. arXiv preprint arXiv:2507.21137.
 
 For this study, Sudoku puzzles were collected from 5 popular Sudoku websites: New York Times, Sudoku.org.uk, Extreme Sudoku, Sudoku of the Day, and Sudoku of the Day UK, along with the difficulty level provided by the website. I currently have permission from Sudoku.org.uk, Extreme Sudoku, and Sudoku of the Day to release the datasets publicly for research and academic use only. 
 
@@ -59,4 +61,8 @@ will be converted to the following string:
 
 ## Important Note
 Please Note that these datasets are to be used for **academic and research purposes only**. 
+
+## Citing
+If you decide to use any part of this dataset, please cite the paper:
+
 
