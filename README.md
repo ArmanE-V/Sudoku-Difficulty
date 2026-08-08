@@ -65,4 +65,4 @@ Please Note that these datasets are to be used for **academic and research purpo
 ## Citing
 If you decide to use any part of this dataset, please cite the paper:
 
-
+>Eisenkolb-Vaithyanathan, A. (2025). Project Patti: Why can You Solve Diabolical Puzzles on one Sudoku Website but not Easy Puzzles on >another Sudoku Website?. arXiv preprint arXiv:2507.21137.
